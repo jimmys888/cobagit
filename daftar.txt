@@ -1,1 +1,4 @@
 ini isi daftar baris 1
+ini isi daftar baris 2
+coba edit pakai vim text editor
+banyak yang harus dipelajari
